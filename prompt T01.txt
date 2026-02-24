@@ -1,0 +1,34 @@
+//12S24049 - Rimanda Santa Risa Panjaitan
+
+Prompt GPT :
+
+[image] [image] [image]
+dari gambar diatas bisa tolong bantu pengerjaannya dan jelaskan dengan detail alurnya soalnya aku ga ngertii. bantu buat dalam bahasa java jelaskan dalam bahasa anak - anak biar aku paham
+
+[image]
+apa arti error nya ini kenapa dia jadi kek ginii padahal belum di running
+
+[image]
+kalau kayak gini kenapa error nyaa
+
+rapihin seluruh kodenya
+
+[image]
+kenapa dia masih tetap error
+
+gimana kalau mauu menjalankan kode program agar outputnya keluar
+
+
+
+
+
+
+Gemini :
+
+bagaimana cara merunning kan code di java
+
+aku mau mengeluarkan outputnya gimana caranya
+
+[IMAGE]
+kenapa dia malah jadi error seperti ini
+
