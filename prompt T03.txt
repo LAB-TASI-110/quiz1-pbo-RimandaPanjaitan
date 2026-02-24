@@ -1,0 +1,26 @@
+//12S24049 - Rimanda Santa Risa Panjaitan
+
+Prompt Gemini:
+
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+Laundry pada Del itu datang satu minggu sekali, contoh di asrama Max Planc datang dihari rabu untuk penjemputan dan pada hari kamisnya diantar kembali setelah di laundry. 
+asrama du IT Del ada 7 asrama. maka bantu lah saya untuk membuat sistem dengan memberikan output yang merujuk pada hari penjemputan dan pengantaran. 
+untuk asrama Louis Pastur, Archimedes, Simon Laplace, Ada Lovelace serta Nicola Tesla itu pada hari selasa dan untuk asrama Max Planc serta asrama Marie Curie itu hari rabu.
+inputnya adalah nama asrama dan outputnya hari penjemputan
+
+buat dalam bahasa Java
+
+tidak perlu, untuk penjemputan itu adakah keesokan hari dari hari penjemputan maka buatlah seperti itu untuk semua nya
+
+jangan ada +1 nya output yang kamu berikan seperti ini
+
+Masukkan Nama Asrama: Max Planck
+--- Hasil Pencarian Jadwal ---
+
+Nama Asrama      : MAX PLANCK
+
+Hari Penjemputan : Rabu
+
+Hari Pengantaran : Kamis
+
+------------------------------
