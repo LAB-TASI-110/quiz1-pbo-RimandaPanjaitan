@@ -1,0 +1,6 @@
+//12S24049 - Rimanda Santa Risa Panjaitan
+
+prompt gemini :
+[image]
+apa arti dari soal diatas dan bagaimana cara penyelesaiannya dalam bahasa java tolong jelaskan secara rinci dan mudah dipahami
+
